@@ -5,7 +5,7 @@ Ingeniero Civil Industrial & Entusiasta de la Tecnología
 
 🔭 **Actualmente trabajando en:**
 * Proyectos de automatización y análisis de datos.
-* [Menciona aquí tu proyecto del curso, ej: Sistema de Gestión]
+* Gestor de archivos
 
 🌱 **Habilidades:**
 * **Lenguajes:** Python (Nivel Intermedio), SQL, R.
