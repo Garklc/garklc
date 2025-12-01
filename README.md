@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Hola,%20soy%20Alejandro&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Civil%20Industrial%20en%20Formación%20%7C%20Entusiasta%20Tech&descAlignY=51&descAlign=62" width="100%"/>
-</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=004e92,000428&height=300&section=header&text=Hola,%20soy%20Alejandro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Civil%20Industrial%20en%20Formación%20%7C%20Entusiasta%20Tech&descAlignY=55&descAlign=62&descColor=ffffff" width="100%"/>
+</div>
 ### 👋 Sobre mí
 
 Soy estudiante de **Ingeniería Civil Industrial**. Me apasiona cerrar la brecha entre la gestión de procesos industriales y las soluciones tecnológicas prácticas.
