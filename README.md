@@ -38,13 +38,27 @@ Mi enfoque no es solo la teoría, sino crear herramientas **tangibles** que opti
 
 ---
 
+<br>
+
+### 📊 Mis Estadísticas
+
 <div align="center">
-<a href="https://github.com/Garklc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Garklc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garklc&layout=compact&theme=dark"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Garklc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="Estadísticas de Garklc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Garklc&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Lenguajes más usados" />
 </div>
 
-📫 **Contacto:**
-* [LinkedIn](https://www.linkedin.com/in/alejandro-jonathan-garc%C3%A9s-delgado-28a39b2a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsmpKdcRRQBOcBkpbYrAbWg%3D%3D)
-* [Email](Alejandrogarces17j@gmail.com)
+---
+
+### 📫 Contacto
+
+<div align="center">
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:tucorreo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
